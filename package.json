@@ -1,0 +1,12 @@
+{
+  "name": "Css",
+  "description": "Css",
+  "dependencies": {
+  },
+  "scripts": {
+  	"debug": "fis3 server start --type node --no-browse -p 8088 && fis3 release debug -c && fis3 release debug -wL",
+  	"online": "fis3 release online"
+  },
+  "repository": {},
+  "license": "MIT"
+}
