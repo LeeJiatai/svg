@@ -1,0 +1,48 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0
+}
+html, body {
+	width: 100%;
+	height: auto;
+	margin: 0;
+	padding: 0;
+}
+h1, h2, h3, h4, h5, h6, article, section, div, p {
+	margin: 0;
+	padding: 0
+}
+ul {
+	list-style: none
+}
+a, a:hover {
+	text-decoration: none
+}
+i {
+	font-style: normal
+}
+button,input {
+	outline: 0;
+}
+.cover {
+	height: 100%;
+	width: 100%;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.show {
+	display: inline-block;
+}
+.hide {
+	display: none;
+}
+.block {
+	height: 100%;
+	width: 100%;
+	display: block;
+}
